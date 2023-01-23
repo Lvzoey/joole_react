@@ -1,0 +1,15 @@
+.search-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    background: linear-gradient(to left, #7EB7EF, white);
+}
+
+.min-logo {
+    color: #154877;
+    position: fixed;
+    left: 80px;
+    font-size: 50px;
+}

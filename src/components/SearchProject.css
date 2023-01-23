@@ -1,0 +1,26 @@
+.search-project {
+    text-align:center;
+}
+
+.project {
+    background-color: #C1C5C8;
+}
+
+.log-out {
+    position: absolute;
+    top: 50px;
+    right : 50px;
+}
+
+form {
+    display: inline-block;
+    height: 20px
+}
+
+form input {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/55/Magnifying_glass_icon.svg") ;
+    background-size: 13px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+

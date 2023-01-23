@@ -1,0 +1,19 @@
+.login-container {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.inputForm {
+    text-align: center;
+}
+
+.log-in-button {
+    color: white;
+    background-color: #6384A3;
+}
+
+.to-signup {
+    position: absolute;
+    top: 50px;
+    right : 50px;
+}

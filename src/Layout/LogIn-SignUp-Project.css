@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    background: linear-gradient(#7EB7EF, white);
+}
+
+.logo {
+    margin-top: 200px;
+    color: #154877;
+    font-size: 100px;
+    text-align: center;
+    font-family: "Artegra Soft", "Artegra Soft SemiBold", sans-serif;
+}
+
+.slogan {
+    color: gray;
+    text-align: center
+}
+
