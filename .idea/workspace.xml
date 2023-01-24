@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="122521d7-e29c-44ed-8981-72f28b7e71f6" name="Changes" comment="appspec.yml">
-      <change afterPath="$PROJECT_DIR$/root/directory/scripts/after_install.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/root/directory/scripts/app_start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/root/directory/scripts/before_install.sh" afterDir="false" />
+    <list default="true" id="122521d7-e29c-44ed-8981-72f28b7e71f6" name="Changes" comment="scripts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/directory/appspec.yml" beforeDir="false" afterPath="$PROJECT_DIR$/appspec.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/directory/scripts/after_install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/after_install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/directory/scripts/app_start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/app_start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/root/directory/scripts/before_install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/before_install.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674513922880</updated>
-      <workItem from="1674513924115" duration="5880000" />
+      <workItem from="1674513924115" duration="7090000" />
     </task>
     <task id="LOCAL-00001" summary="appspec.yml">
       <created>1674529683698</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674532817592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="scripts">
+      <created>1674534938764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674534938764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="appspec.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="appspec.yml" />
+    <MESSAGE value="scripts" />
+    <option name="LAST_COMMIT_MESSAGE" value="scripts" />
   </component>
 </project>
