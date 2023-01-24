@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="122521d7-e29c-44ed-8981-72f28b7e71f6" name="Changes" comment="">
+    <list default="true" id="122521d7-e29c-44ed-8981-72f28b7e71f6" name="Changes" comment="appspec.yml">
+      <change afterPath="$PROJECT_DIR$/root/directory/scripts/after_install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/root/directory/scripts/app_start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/root/directory/scripts/before_install.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +71,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674513922880</updated>
-      <workItem from="1674513924115" duration="3463000" />
+      <workItem from="1674513924115" duration="5880000" />
     </task>
+    <task id="LOCAL-00001" summary="appspec.yml">
+      <created>1674529683698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674529683698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="appspec.yml">
+      <created>1674531312454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674531312454</updated>
+    </task>
+    <task id="LOCAL-00003" summary="appspec.yml">
+      <created>1674532817592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674532817592</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="appspec.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="appspec.yml" />
   </component>
 </project>
